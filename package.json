@@ -1,0 +1,10 @@
+{
+  "name": "sqlearn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "SSH1997",
+  "license": "MIT"
+}
